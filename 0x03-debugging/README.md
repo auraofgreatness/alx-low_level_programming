@@ -1,0 +1,1 @@
+multiple mains test function
