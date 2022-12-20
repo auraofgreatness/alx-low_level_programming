@@ -2,7 +2,7 @@
 
 /**
  * puts2 - Prints one char out of two of a string.
- * @str: The string containing characters.
+ * @str: input.
  * Return: printed characters.
  */
 void puts2(char *str)
