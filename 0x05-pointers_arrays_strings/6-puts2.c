@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * puts2 - Prints one char out of two of a string.
- * @str: input.
- * Return: printed characters.
+ * puts2 - Prints one char out of two of a string
+ * @str: input
+ * Return: print
  */
 void puts2(char *str)
 {
